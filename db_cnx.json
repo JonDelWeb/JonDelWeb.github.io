@@ -4,7 +4,13 @@
        "uid": "1b4b8907-f248-49e0-afdd-343cfcaa0e15",
        "name": "2584 | BASTION CMD | IPT | E/U | Allow IPTRADE administration from Bastion (SSH)",
        "comment": "Port tcp 22 (SSH protocol) used for IPTRADE administration from Bastion",
-       "open_tickets": [],
+       "open_tickets": [
+        "ticket" : {
+           "id": "1749",
+           "display_name": "GLO #4",
+           "name": "GLO #4",
+           "link": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/tickets/1749"
+           }],
        "external": "true",
        "status": "CONNECTED",
        "sources": {
