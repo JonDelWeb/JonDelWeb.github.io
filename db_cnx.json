@@ -5,7 +5,7 @@
        "name": "2584 | BASTION CMD | IPT | E/U | Allow IPTRADE administration from Bastion (SSH)",
        "comment": "Port tcp 22 (SSH protocol) used for IPTRADE administration from Bastion",
        "open_tickets": [
-        "ticket" : {
+           "ticket": {
            "id": "1749",
            "display_name": "GLO #4",
            "name": "GLO #4",
