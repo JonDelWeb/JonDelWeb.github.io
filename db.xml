@@ -1,3 +1,4 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <applications>
 <application>
 <id>108</id>
@@ -2446,7 +2447,7 @@ xxxx | FTP PUB | Milan Cernaia FTP PUB network card
 <id>76</id>
 <name>AMUNDI.USA</name>
 <comment>
-[DOT] Systems Administration and Operations AMUNDI-PIONEER.USA (Application décom en octobre) - Responsable SID
+[DOT] Systems Administration & Operations AMUNDI-PIONEER.USA (Application décom en octobre) - Responsable SID
 </comment>
 <decommissioned>false</decommissioned>
 <owner>
@@ -2678,7 +2679,7 @@ xxxx | xxxx | Access to Pioneer PKI ISS Farm (Production)
 <application>
 <id>58</id>
 <name>AST</name>
-<comment>[DOT] Application Servers and Tools</comment>
+<comment>[DOT] Application Servers & Tools</comment>
 <decommissioned>false</decommissioned>
 <owner>
 <id>101</id>
@@ -3478,20 +3479,20 @@ baumgart bodya chesnoy hippolyt maffait marouani prolhac rosaire_g
 <connection>
 <id>3038</id>
 <display_name>
-3387 | F5 - DAT | Allow all internal users and Citrix Platforms to access to ALL VIP Public (Non Production)
+3387 | F5 - DAT | Allow all internal users & Citrix Platforms to access to ALL VIP Public (Non Production)
 </display_name>
 <name>
-3387 | F5 - DAT | Allow all internal users and Citrix Platforms to access to ALL VIP Public (Non Production)
+3387 | F5 - DAT | Allow all internal users & Citrix Platforms to access to ALL VIP Public (Non Production)
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/88/connections/3038"/>
 </connection>
 <connection>
 <id>3039</id>
 <display_name>
-3387 | F5 - DAT | Allow all internal users and Citrix Platforms to access to ALL VIP Public (Production)
+3387 | F5 - DAT | Allow all internal users & Citrix Platforms to access to ALL VIP Public (Production)
 </display_name>
 <name>
-3387 | F5 - DAT | Allow all internal users and Citrix Platforms to access to ALL VIP Public (Production)
+3387 | F5 - DAT | Allow all internal users & Citrix Platforms to access to ALL VIP Public (Production)
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/88/connections/3039"/>
 </connection>
@@ -3528,20 +3529,20 @@ baumgart bodya chesnoy hippolyt maffait marouani prolhac rosaire_g
 <connection>
 <id>3442</id>
 <display_name>
-3387 | F5 - DAT | Allow all internal users and Citrix Platforms to access to ALL VIP (Production)
+3387 | F5 - DAT | Allow all internal users & Citrix Platforms to access to ALL VIP (Production)
 </display_name>
 <name>
-3387 | F5 - DAT | Allow all internal users and Citrix Platforms to access to ALL VIP (Production)
+3387 | F5 - DAT | Allow all internal users & Citrix Platforms to access to ALL VIP (Production)
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/88/connections/3442"/>
 </connection>
 <connection>
 <id>3443</id>
 <display_name>
-3387 | F5 - DAT | Allow all internal users and Citrix Platforms to access to ALL VIP (Non Production) bis
+3387 | F5 - DAT | Allow all internal users & Citrix Platforms to access to ALL VIP (Non Production) bis
 </display_name>
 <name>
-3387 | F5 - DAT | Allow all internal users and Citrix Platforms to access to ALL VIP (Non Production) bis
+3387 | F5 - DAT | Allow all internal users & Citrix Platforms to access to ALL VIP (Non Production) bis
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/88/connections/3443"/>
 </connection>
@@ -3580,20 +3581,20 @@ baumgart bodya chesnoy hippolyt maffait marouani prolhac rosaire_g
 <connection>
 <id>706</id>
 <display_name>
-4307  FMP  PPR - Flow between public zone and internal
+4307 | FMP | PPR - Flow between public zone & internal
 </display_name>
 <name>
-4307 | FMP | PPR - Flow between public zone and internal
+4307 | FMP | PPR - Flow between public zone & internal
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/43/connections/706"/>
 </connection>
 <connection>
 <id>716</id>
 <display_name>
-4307 | FMP | PRD | Flow between public zone and internal
+4307 | FMP | PRD | Flow between public zone & internal
 </display_name>
 <name>
-4307 | FMP | PRD | Flow between public zone and internal
+4307 | FMP | PRD | Flow between public zone & internal
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/43/connections/716"/>
 </connection>
@@ -5258,10 +5259,10 @@ BAILLY bcollins chaabane chalal hannibal pereira pichot saidoun
 <connection>
 <id>544</id>
 <display_name>
-4389 | MIDA RECORDING | TOIP and IPT | E/U | Allow call collection from Telisca MSX
+4389 | MIDA RECORDING | TOIP & IPT | E/U | Allow call collection from Telisca MSX
 </display_name>
 <name>
-4389 | MIDA RECORDING | TOIP and IPT | E/U | Allow call collection from Telisca MSX
+4389 | MIDA RECORDING | TOIP & IPT | E/U | Allow call collection from Telisca MSX
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/1/connections/544"/>
 </connection>
@@ -6278,10 +6279,10 @@ BAILLY bcollins chaabane chalal hannibal pereira pichot saidoun
 <connection>
 <id>3569</id>
 <display_name>
-4389 | MIDA RECORDING | TOIP and IPT | BOC | Allow call collection from Telisca MSX
+4389 | MIDA RECORDING | TOIP & IPT | BOC | Allow call collection from Telisca MSX
 </display_name>
 <name>
-4389 | MIDA RECORDING | TOIP and IPT | BOC | Allow call collection from Telisca MSX
+4389 | MIDA RECORDING | TOIP & IPT | BOC | Allow call collection from Telisca MSX
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/1/connections/3569"/>
 </connection>
@@ -7094,10 +7095,10 @@ POC Telephony MSTeams | e-vSBC Management Flows DNS
 <connection>
 <id>4894</id>
 <display_name>
-TOIP Oracle Communications | e-SBC and ECB toward EOM Flows
+TOIP Oracle Communications | e-SBC & ECB toward EOM Flows
 </display_name>
 <name>
-TOIP Oracle Communications | e-SBC and ECB toward EOM Flows
+TOIP Oracle Communications | e-SBC & ECB toward EOM Flows
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/1/connections/4894"/>
 </connection>
@@ -7593,10 +7594,10 @@ TOIP Oracle Communications | e-SBC and ECB toward EOM Flows
 <connection>
 <id>1229</id>
 <display_name>
-4338 | Citrix - Amundi Services and AD-ITS | Netscaler sessions
+4338 | Citrix - Amundi Services & AD-ITS | Netscaler sessions
 </display_name>
 <name>
-4338 | Citrix - Amundi Services and AD-ITS | Netscaler sessions
+4338 | Citrix - Amundi Services & AD-ITS | Netscaler sessions
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/63/connections/1229"/>
 </connection>
@@ -9882,7 +9883,7 @@ Citrix - AD-ITS | Comms ports for Session Manager PreProduction to allow access 
 <application>
 <id>26</id>
 <name>DAT</name>
-<comment>[DOT] Development Architecture and Tools</comment>
+<comment>[DOT] Development Architecture & Tools</comment>
 <decommissioned>false</decommissioned>
 <owner>
 <id>106</id>
@@ -9970,26 +9971,26 @@ amirmoez belhassi charpenl chesnoy cottini forget simonx
 </connection>
 <connection>
 <id>987</id>
-<display_name>1732 | Witbe | APM and SLM to WEC server</display_name>
-<name>1732 | Witbe | APM and SLM to WEC server</name>
+<display_name>1732 | Witbe | APM & SLM to WEC server</display_name>
+<name>1732 | Witbe | APM & SLM to WEC server</name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/26/connections/987"/>
 </connection>
 <connection>
 <id>988</id>
-<display_name>1732 | Witbe | APM and SLM to Maestro server</display_name>
-<name>1732 | Witbe | APM and SLM to Maestro server</name>
+<display_name>1732 | Witbe | APM & SLM to Maestro server</display_name>
+<name>1732 | Witbe | APM & SLM to Maestro server</name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/26/connections/988"/>
 </connection>
 <connection>
 <id>989</id>
-<display_name>1732 | Witbe | Maestro server to APM and SLM</display_name>
-<name>1732 | Witbe | Maestro server to APM and SLM</name>
+<display_name>1732 | Witbe | Maestro server to APM & SLM</display_name>
+<name>1732 | Witbe | Maestro server to APM & SLM</name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/26/connections/989"/>
 </connection>
 <connection>
 <id>991</id>
-<display_name>1732 | Witbe | WEC server to APM and SLM robots</display_name>
-<name>1732 | Witbe | WEC server to APM and SLM robots</name>
+<display_name>1732 | Witbe | WEC server to APM & SLM robots</display_name>
+<name>1732 | Witbe | WEC server to APM & SLM robots</name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/26/connections/991"/>
 </connection>
 <connection>
@@ -10635,10 +10636,10 @@ davidjp elblack emcconnell gillesp jcroash pierre_j rabier riou robin
 <connection>
 <id>1623</id>
 <display_name>
-1576 | Sybase | Allow to access to SYBASE databases (Production and Non Production)
+1576 | Sybase | Allow to access to SYBASE databases (Production & Non Production)
 </display_name>
 <name>
-1576 | Sybase | Allow to access to SYBASE databases (Production and Non Production)
+1576 | Sybase | Allow to access to SYBASE databases (Production & Non Production)
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/3/connections/1623"/>
 </connection>
@@ -12447,7 +12448,7 @@ XXXX | FE Engine | Access to application server (Non Production)
 <application>
 <id>4</id>
 <name>ESR</name>
-<comment>[DEV] Employee Savings and Retirement</comment>
+<comment>[DEV] Employee Savings & Retirement</comment>
 <decommissioned>false</decommissioned>
 <owner>
 <id>36</id>
@@ -13934,7 +13935,7 @@ xxxx | Fund Channel DB WEB | Acces to FC DB WEB (Non Production)
 <application>
 <id>80</id>
 <name>FOA</name>
-<comment>[DEV] Front Office and Analysis</comment>
+<comment>[DEV] Front Office & Analysis</comment>
 <decommissioned>false</decommissioned>
 <owner>
 <id>486</id>
@@ -15474,10 +15475,10 @@ BAILLY bcollins chaabane chalal hannibal pereira pichot saidoun
 <connection>
 <id>948</id>
 <display_name>
-2737 | STATA | Financial calculator tool (Excel macro and tools)
+2737 | STATA | Financial calculator tool (Excel macro & tools)
 </display_name>
 <name>
-2737 | STATA | Financial calculator tool (Excel macro and tools)
+2737 | STATA | Financial calculator tool (Excel macro & tools)
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/44/connections/948"/>
 </connection>
@@ -16277,7 +16278,7 @@ XXX | Extra | Access to application VS (Non Production)
 <application>
 <id>18</id>
 <name>PKC</name>
-<comment>[DEV] Position Keeping and Controls</comment>
+<comment>[DEV] Position Keeping & Controls</comment>
 <decommissioned>false</decommissioned>
 <owner>
 <id>12</id>
@@ -17815,10 +17816,10 @@ BAILLY bcollins chaabane chalal hannibal pereira pichot saidoun
 <connection>
 <id>4086</id>
 <display_name>
-4329 | Skype | Allow all Internal workstations and Citrix platform to access to Front End Servers
+4329 | Skype | Allow all Internal workstations & Citrix platform to access to Front End Servers
 </display_name>
 <name>
-4329 | Skype | Allow all Internal workstations and Citrix platform to access to Front End Servers
+4329 | Skype | Allow all Internal workstations & Citrix platform to access to Front End Servers
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/21/connections/4086"/>
 </connection>
@@ -18226,7 +18227,7 @@ dghim djellali farina krajcovi msegimon pandi petovic piotriwaszkiewicz tpizzi
 <application>
 <id>65</id>
 <name>SSP</name>
-<comment>[SEC] Sécurité, Sûreté and Prévention</comment>
+<comment>[SEC] Sécurité, Sûreté & Prévention</comment>
 <decommissioned>false</decommissioned>
 <owner>
 <id>486</id>
@@ -18250,8 +18251,8 @@ dghim djellali farina krajcovi msegimon pandi petovic piotriwaszkiewicz tpizzi
 </connection>
 <connection>
 <id>3241</id>
-<display_name>4357 | Alwin | Communication automate serveur</display_name>
-<name>4357 | Alwin | Communication automate serveur</name>
+<display_name>4357 | Alwin | Communication automate <>serveur</display_name>
+<name>4357 | Alwin | Communication automate <>serveur</name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/65/connections/3241"/>
 </connection>
 <connection>
@@ -18263,10 +18264,10 @@ dghim djellali farina krajcovi msegimon pandi petovic piotriwaszkiewicz tpizzi
 <connection>
 <id>3243</id>
 <display_name>
-4357 | Alwin | Téléchargement and Configuration communication SA3
+4357 | Alwin | Téléchargement & Configuration communication SA3
 </display_name>
 <name>
-4357 | Alwin | Téléchargement and Configuration communication SA3
+4357 | Alwin | Téléchargement & Configuration communication SA3
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/65/connections/3243"/>
 </connection>
@@ -18338,7 +18339,7 @@ dghim djellali farina krajcovi msegimon pandi petovic piotriwaszkiewicz tpizzi
 <application>
 <id>27</id>
 <name>STK</name>
-<comment>[DOT] Storage and Backup</comment>
+<comment>[DOT] Storage & Backup</comment>
 <decommissioned>false</decommissioned>
 <owner>
 <id>266</id>
@@ -18377,10 +18378,10 @@ dghim djellali farina krajcovi msegimon pandi petovic piotriwaszkiewicz tpizzi
 <connection>
 <id>1064</id>
 <display_name>
-4454 | ISILON | allow all users to access NAS via smb and nfs
+4454 | ISILON | allow all users to access NAS via smb & nfs
 </display_name>
 <name>
-4454 | ISILON | allow all users to access NAS via smb and nfs
+4454 | ISILON | allow all users to access NAS via smb & nfs
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/27/connections/1064"/>
 </connection>
@@ -18461,20 +18462,20 @@ dghim djellali farina krajcovi msegimon pandi petovic piotriwaszkiewicz tpizzi
 <connection>
 <id>1607</id>
 <display_name>
-4501 | Allow new PMAXs to access ESRS Gateways for support and monitoring | Outbound
+4501 | Allow new PMAXs to access ESRS Gateways for support & monitoring | Outbound
 </display_name>
 <name>
-4501 | Allow new PMAXs to access ESRS Gateways for support and monitoring | Outbound
+4501 | Allow new PMAXs to access ESRS Gateways for support & monitoring | Outbound
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/27/connections/1607"/>
 </connection>
 <connection>
 <id>1608</id>
 <display_name>
-4501 | Allow new PMAXs to access ESRS Gateways for support and monitoring | Inbound
+4501 | Allow new PMAXs to access ESRS Gateways for support & monitoring | Inbound
 </display_name>
 <name>
-4501 | Allow new PMAXs to access ESRS Gateways for support and monitoring | Inbound
+4501 | Allow new PMAXs to access ESRS Gateways for support & monitoring | Inbound
 </name>
 <link href="https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/27/connections/1608"/>
 </connection>
@@ -19781,7 +19782,7 @@ POC Telephony MSTeams | Flows Public e-vSBC interface toward MSTeams
 <application>
 <id>14</id>
 <name>TTP</name>
-<comment>[DEV] Trading and MO Trade Processing</comment>
+<comment>[DEV] Trading & MO Trade Processing</comment>
 <decommissioned>false</decommissioned>
 <owner>
 <id>266</id>
